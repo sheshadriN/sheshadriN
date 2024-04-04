@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHESHADRI</h1>
 <h3 align="center">A passionate developer and programmer from India</h3>
 
-- 🔭 I’m currently working on **Application for Milkman**
+- 🔭 I’m currently working on **open source**
 
 - 🌱 I’m currently learning **ReacNative**
 
