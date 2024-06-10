@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **open source**
 
-- 🌱 I’m currently learning **GO Lang**
+- 🌱 I’m currently learning **GOlang**
 
 - 💬 Ask me about **React,Node,Express,mongodb,ReactNative,Java**
 
